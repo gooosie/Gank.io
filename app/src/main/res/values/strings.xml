@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gank.io</string>
+    <string name="title_activity_main">Gank.io</string>
+    <string name="action_about">关于</string>
+    <string name="icon">icon</string>
+    <string name="author">Gooosie</string>
+    <string name="about_description">一个精简版的Gank.io的第三方客户端，只有干货。</string>
+    <string name="about_github">https://github.com/gooosie/Gank.io</string>
+    <string name="about_license">开源许可</string>
+</resources>
