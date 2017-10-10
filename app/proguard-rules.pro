@@ -48,3 +48,7 @@
 -keepclasseswithmembers class * {
     @retrofit2.http.* <methods>;
 }
+
+# com.gooosie.gankio.model
+# Fix the bug that does not show anything.
+-keepclasseswithmembers class com.gooosie.gankio.model.* { *; }
