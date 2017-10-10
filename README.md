@@ -2,6 +2,8 @@
 
 一个精简版的gank.io非官方客户端，只有干货。
 
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](/LICENSE) [![release](https://img.shields.io/github/release/gooosie/Gank.io.svg?style=flat-square)](https://github.com/gooosie/Gank.io/releases)
+
 ## 简介
 
 一个精简版的gank.io非官方客户端，只有干货。纯练手项目，熟悉了一下MVP模式和RxJava2和Retrofit2的使用，使用CustomTabs打开网页。
