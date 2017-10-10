@@ -8,9 +8,9 @@
 
 ## 截图
 
-![Screenshot1](/docs/screenshot_1.png)
-![Screenshot2](/docs/screenshot_2.png)
-![Screenshot3](/docs/screenshot_3.png)
+![Screenshot1](/docs/Screenshot_1.png)
+![Screenshot2](/docs/Screenshot_2.png)
+![Screenshot3](/docs/Screenshot_3.png)
 
 ## 第三方库
 
